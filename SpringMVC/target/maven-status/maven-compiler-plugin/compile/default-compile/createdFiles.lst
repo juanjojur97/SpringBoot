@@ -1,0 +1,11 @@
+com\juanjojur\curso\springboot\webapp\springbootweb\models\dto\ParamMixDto.class
+com\juanjojur\curso\springboot\webapp\springbootweb\SpringbootWebApplication.class
+com\juanjojur\curso\springboot\webapp\springbootweb\ValuesConfig.class
+com\juanjojur\curso\springboot\webapp\springbootweb\controllers\UserRestController.class
+com\juanjojur\curso\springboot\webapp\springbootweb\controllers\UserController.class
+com\juanjojur\curso\springboot\webapp\springbootweb\models\User.class
+com\juanjojur\curso\springboot\webapp\springbootweb\controllers\HomeController.class
+com\juanjojur\curso\springboot\webapp\springbootweb\controllers\RequestParamsController.class
+com\juanjojur\curso\springboot\webapp\springbootweb\controllers\PathVariableController.class
+com\juanjojur\curso\springboot\webapp\springbootweb\models\dto\UserDto.class
+com\juanjojur\curso\springboot\webapp\springbootweb\models\dto\ParamDto.class
